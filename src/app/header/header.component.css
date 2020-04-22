@@ -1,0 +1,16 @@
+img {
+    width: 100%;
+}
+
+.bg-orange {
+    background-color: #ef972a;
+}
+
+.avatar-img {
+    width: 100%;
+    /* height: auto; */
+}
+
+.nav-link {
+    color: #fff !important;
+}

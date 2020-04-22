@@ -1,0 +1,73 @@
+.logo {
+    width: 203px;
+    height: 72px;
+}
+
+.text-white {
+    color: #ffffff;
+}
+
+.font-weight {
+    font-weight: 700;
+}
+
+.login-head {
+    font-size: 70px;
+}
+
+.test-img {
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+}
+
+.login-input {
+    border-radius: 30px;
+    border: 1px solid #fff;
+    background: transparent;
+    box-shadow: none;
+    color: #fff;
+    height: 50px;
+    padding-right: 2.5rem
+}
+
+.position-relative {
+    position: relative;
+}
+
+.message-icon img {
+    top: 68%;
+    right: 20px;
+    font-size: .88rem;
+    position: absolute;
+    transform: translateY(-50%);
+}
+
+.check-control {
+    position: relative;
+    padding-left: 6px;
+    display: block;
+}
+
+.check-control-input {
+    position: absolute;
+    width: 20px;
+    height: 15px;
+}
+
+.checkbox-lable {
+    position: relative;
+    left: 24px;
+    top: -3px;
+}
+
+button {
+    color: #ef972a;
+    border-radius: 30px;
+}
+
+.bg {
+    background-image: url(../../assets/images/bg.jpg);
+    background-size: cover;
+    background-color: #ef972a;
+}
